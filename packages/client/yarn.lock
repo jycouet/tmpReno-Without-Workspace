@@ -2346,6 +2346,10 @@ supports-color@^4.0.0:
   dependencies:
     has-flag "^2.0.0"
 
+"svg-gauge@file:../localRegistry/packed/svg-gauge-1.0.4.tgz":
+  version "1.0.4"
+  resolved "file:../localRegistry/packed/svg-gauge-1.0.4.tgz#90928040cbacd678bd29c803a45e886b5c1a2ef5"
+
 symbol-tree@^3.2.1:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.2.tgz#ae27db38f660a7ae2e1c3b7d1bc290819b8519e6"

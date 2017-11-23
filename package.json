@@ -12,8 +12,5 @@
     "@types/moment": "^2.13.0",
     "concurrently": "^3.5.0",
     "lerna": "^2.0.0"
-  },
-  "engines": {
-    "node": "^8.0.0"
   }
 }
